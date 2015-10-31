@@ -1,0 +1,22 @@
+{
+  "name": "anny-performance-app",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "levithomason <me@levithomason.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lodash": "~3.10.1",
+    "jquery": "~2.1.4"
+  }
+}
