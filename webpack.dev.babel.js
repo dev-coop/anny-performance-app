@@ -17,6 +17,7 @@ export default {
       'lodash',
       'jquery',
       'classnames',
+      'Chart.js',
       'anny',
       'radium',
       'history/lib/createBrowserHistory',
@@ -48,9 +49,10 @@ export default {
     ],
   },
   externals: {
-    anny: 'anny',
-    jquery: 'jQuery',
-    lodash: '_',
+    'anny': 'anny',
+    'jquery': 'jQuery',
+    'lodash': '_',
+    'Chart.js': 'Chart'
   },
   devTool: 'source-map',
   resolve: {
