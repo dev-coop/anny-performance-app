@@ -11,7 +11,8 @@
     "defaults/rules/react/airbnb"
   ],
   "rules": {
-    "no-unused-vars": [2, {"vars": "all", "args": "none"}]
+    "no-unused-vars": [2, {"vars": "all", "args": "none"}],
+    "react/sort-comp": 0
   },
   "env": {
     "browser": true

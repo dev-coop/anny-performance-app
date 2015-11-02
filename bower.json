@@ -17,6 +17,7 @@
   ],
   "dependencies": {
     "lodash": "~3.10.1",
-    "jquery": "~2.1.4"
+    "jquery": "~2.1.4",
+    "mathjs": "~2.4.1"
   }
 }
