@@ -75,8 +75,8 @@ export default class Dashboard extends Component {
             {codeEditor}
           </div>
         </div>
-        <div style={[style.cell, {flex: '0 0 120px'}]}>
-          <LineChart width="100%" height="120" data={data} options={options} />
+        <div style={[style.cell, {flex: '0 0 150px'}]}>
+          <LineChart width="100%" height="100%" data={data} options={options} />
         </div>
       </div>
     );
