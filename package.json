@@ -15,8 +15,8 @@
   "license": "ISC",
   "dependencies": {
     "anny": "^0.1.1",
-    "babel": "^6.0.14",
-    "babel-loader": "^5.3.3",
+    "babel": "^5.8.34",
+    "babel-loader": "^5.4.0",
     "bower": "^1.6.5",
     "brace": "^0.5.1",
     "classnames": "^2.2.0",
@@ -24,6 +24,7 @@
     "eslint-loader": "^1.1.0",
     "eslint-plugin-babel": "^2.1.1",
     "eslint-plugin-react": "^3.6.3",
+    "history": "^1.13.1",
     "radium": "^0.14.3",
     "react": "^0.14.1",
     "react-ace": "^2.6.0",
